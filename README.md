@@ -2,6 +2,12 @@
 Capstone Project
 
 
+Profile report for train dataset is large file , therefore the drive link is provided here: https://drive.google.com/drive/folders/1NZMNBS2fExX3yh1ga_67t3xR_GeiXRzd
+
+Profile report for test dataset is large file , therefore the drive link is provided here: https://drive.google.com/drive/folders/1NZMNBS2fExX3yh1ga_67t3xR_GeiXRzd
+
+
+
 **Steps**
 1. Choosing Dataset and Theme
 Selection of the Sign Language MNIST dataset from Kaggle for the project theme.
