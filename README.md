@@ -1,6 +1,6 @@
 # CIND860
 Capstone Project
-
+Final code file is very large, therefore the drive link is provided here: https://colab.research.google.com/drive/13iSDqdbjhq85HudLf-xO08-x7SQJcmxk
 
 Profile report for train dataset is large file , therefore the drive link is provided here: https://drive.google.com/drive/folders/1NZMNBS2fExX3yh1ga_67t3xR_GeiXRzd
 
